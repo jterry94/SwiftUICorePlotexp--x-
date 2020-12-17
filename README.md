@@ -6,3 +6,5 @@ The [Core Plot](https://github.com/core-plot/core-plot) library is not compatibl
 Using the concept of `NSViewRepresentable`, `CorePlot` can be integrated in `SwiftUI`.
 
 For an explanation of the necessary steps to reproduce this see [Integration CorePlot in SwiftUI on MacOS](https://fred.appelman.net/?p=156).
+
+Note: this code does not successfully update the plot. 
